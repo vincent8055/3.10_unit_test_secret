@@ -19,4 +19,3 @@ describe('Test API Endpoints', () => {
     expect(response.text).toEqual('Hello from /test Node!');
   });
 });
-
