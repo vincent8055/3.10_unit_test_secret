@@ -1,1 +1,3 @@
-# 3.10_unit_test_secret
+# 3.10_unit_test
+
+Github action to test index.js code
